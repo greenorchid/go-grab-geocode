@@ -1,0 +1,6 @@
+# Go build artefacts
+go-grab-geocode
+go-grab-geocode.exe
+*.exe
+*.out
+EOF
